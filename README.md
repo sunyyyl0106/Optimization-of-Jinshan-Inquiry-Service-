@@ -1,2 +1,2 @@
-# STAT3060-Team5
-Web for STAT3060 Team5
+# Optimization of “Jinshan Inquiry Service” – A Smart Community Mini App
+We focus on how to use computational thinking and real data to quantitatively solve social science problems. Through Python and its application in data science, we will take the smart community of Fuzhou as an example, discover problems, collect and combine data from end users, enterprises, governments and other parties and propose solutions.
